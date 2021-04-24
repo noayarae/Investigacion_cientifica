@@ -41,7 +41,7 @@ Para hablar acerca de eventos que empezaron en el pasado y que aún están proce
 
 ### Tiempo presente.
 Para hablar acerca de teorías y conocimiento generales, discutir actuales definiciones y sugerencia de futuras aplicaciones e investigaciones. Ejemplo:
-- La insulina **regula** los niveles de la glucosa..
+- La insulina **regula** los niveles de la glucosa...
 - Los incrementos de la producción hormonas **indica** ...
 
 
