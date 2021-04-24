@@ -36,6 +36,27 @@ De las dos redacciones anteriores, la primera es lo más correcto.
   * Los resultados de esta investigación son similares a la literatura?
   * Los resultados de esta investigación son significativamente diferentes a la literatura?
 
-En nuestro ejemplo, si la literatura muestra que el nuevo medicamento fueron efectivos en el tratamiento de pacientes diabéticos, uno debe explorar 
+En nuestro ejemplo, si la literatura muestra que el nuevo medicamento fueron efectivos en el tratamiento de pacientes diabéticos, en este capítulo, uno debe explorar porque los resultados de la investigación podrian estar mostrando resultados diferentes. Entonces, uno debe explorar si la metodología fue diferente, los alcances y rangos del estudio fueron más amplios que los estudios anteriores?, hubieron algunas limitaciones en los estudios anteriores que el presente estudio los supero?. Es posible que el presente estudio este incorrecto debido a algunas dificultades en la conducción del estudio. La sección de discusión debe narrar una coherente historia para el público objetivo.
+
+Finalmente, recuerda que no se debe introducir nuevas ideas/datos o especular posibles implicaciones futuras del estudio en esta sección. Sin embargo, considerar explicaciones alternativas para los resultados del estudio es recomendable.
+
+
+### Confusiones en la sección de conclusiones
+Muchos investigadores confunden la información que deben incluir en la sección de discusión con la información que se debe incluir en la sección de conclusiones. Una forma sencilla para evitar esta confusión is pensar de la conclusión como un resumen de todo lo mencionado en el artículo. En la sección de conclusión, uno debe recordar al lector todo lo que el artículo describe. La sección de conclusión debe contener:
+- Repita su hipótesis o pregunta de investigación.
+- Repita los principales hallazgos de la investigación.
+- Mencione la contribución ha hecho su estudio a la literatura existente.
+- Resalte las limitaciones de su estudio.
+- Indique las direcciones futuras para la investigación / recomendaciones.
+
+La sección de conclusión No debe:
+- Introducir nuevos argumentos
+- Introducir nuevos datos
+- No incluir su pregunta de investigación
+- No declare sus principales resultados
+
+Una conclusión apropiada de nuestro estudio hipotético podría ser la siguiente:
+
+
 
 
