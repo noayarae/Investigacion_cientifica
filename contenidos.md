@@ -57,6 +57,6 @@ La sección de conclusión No debe:
 
 Una conclusión apropiada de nuestro estudio hipotético podría ser la siguiente:
 
-
+En este estudio, se ha examinado la eficiencia de un nuevo medicamento "A" en pacientes diabéticos. Se ha comparado pacientes diabéticos que recibieron este medicamento A con aquellos que no recibieron el medicamento A. Después de examinar los resultados de 5 años de seguimiento de 1947 pacientes in el área de metropolitana de México, el análisis estadístico concluyó que la ingesta del medicamento A dió resultados que no fueron mejores a los pacientes que no ingirieron el medicamento A. Aunque previos hallazgos indicaron que el medicamento A dieron resultados favorables en estos pacientes
 
 
