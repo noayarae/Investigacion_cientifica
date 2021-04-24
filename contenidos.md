@@ -61,8 +61,9 @@ En este estudio, se ha examinado la eficiencia de un nuevo medicamento "A" en pa
 
 https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-manuscript/
 
-Example in English version
-Conclusion
+##### Example in English version.
+
+###### Conclusion
 **(1 - Objective)** In this study, we examined the effectiveness of stent placement. **(2 - Methodology)** We compared the patients with partially blocked arteries to those with non-surgical interventions. **(3 - Finding)** After examining the five-year medical outcomes of 19,457 patients in the Greater Dallas area, our statistical analysis concluded that the placement of a stent resulted in outcomes that were no better than non-surgical interventions such as diet and exercise. **(4 - Contribution to literature, similarities, or differences)** Although previous findings indicated that stent placement improved patient outcomes, our study followed a greater number of patients than those in major studies conducted previously. **(5 - Why it is similar or different – study boundaries)** It is possible that outcomes would vary if measured over a ten- or fifteen-year period. **(6 - Future research)** Future researchers should consider investigating the impact of stent placement in these patients over a longer period (five years or longer). **(7 - Recommendation)** Regardless, our results point to the need for medical practitioners to reconsider the placement of a stent as the first line of treatment as non-surgical interventions may have equally positive outcomes for patients.
 
 
