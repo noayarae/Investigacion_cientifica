@@ -19,7 +19,7 @@ El tiempo en la escritura de artículos científicos varía segun el cuerpo del 
 **Tiempo pasado,** para hablar de los resultados actuales.
 **Tiempo presente,** para explicar diagramas, figuras y tablas
 
-### Discusion
+### Discusión
 **Tiempo presente,** para interprestar y hablar acerca de los hallazgos.
 
 **Tiempo pasado,** para brevemente resumir los importantes hallazgos
