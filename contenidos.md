@@ -1,6 +1,6 @@
+## Contenido de las diferentes secciones de un artículo de investigación
 
-
-## Discusión
+### Discusión
 La discusión va después después de métodos y resultados y antes de las conclusiones.
 
 La discusión debe relacionarse directamente con las preguntas planteadas en la introducción y contextualizar los resultados dentro de la literatura que se ha cubierto en la revisión de la literatura. 
