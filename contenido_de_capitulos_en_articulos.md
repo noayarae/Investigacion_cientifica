@@ -27,7 +27,7 @@ Existen varias formas de redactar una discusión efectiva, interesante y relevan
 
 Ejemplo: Imagine que usted está conduciendo una investigación para evaluar la efectividad de un medicamento en personas diabéticas. Usted encuentra que este nuevo medicamento no es efectivo para pacientes con diabetes. El estudio además descubre que pacientes tratados con este nuevo medicamento tienden levemente a desarrollar ataques de asma.
 Aquí se tiene dos redacciones de discusión:
-1. Los hallazgos sugieren que pacientes diabéticos tratados con este nuevo medicamento  no han dado resultados favorables en comparación a aquellos pacientes que no tratados con este nuevo medicamento.
+1. Los hallazgos sugieren que pacientes diabéticos tratados con este nuevo medicamento  no han dado resultados favorables en comparación a aquellos pacientes que no fueron tratados con este nuevo medicamento.
 2. Los hallazgos mostraron que pacientes que recibieron el nuevo medicamento mostraron ligera tendencia a desarrollar ataques de asma que aquellos que no recibieron el medicamento. Además, los pacientes que recibieron el nuevo medicamento no mostraron resultados favorables comparado a aquellos no recibieron el medicamento.
 
 De las dos redacciones anteriores, la primera es lo más correcto.
