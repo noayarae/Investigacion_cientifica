@@ -12,4 +12,4 @@
   - En tablas muy densas, donde el reporte de numerosos valores de P resulta tedioso.
   - Cuando se presentan probabilidades en lugar de valores P
   - Si por alguna razón no se puede proporcionar los valores p exactos.
-- In muy raras ocasiones el valor de P puede ser expresado con mas de 3 cifras decimales (*P*=1x10^-5)
+- In muy raras ocasiones el valor de P puede ser expresado con mas de 3 cifras decimales (*P*=1x10^<sup>-5</sup>)
