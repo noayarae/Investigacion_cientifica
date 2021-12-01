@@ -13,3 +13,8 @@
   - Cuando se presentan probabilidades en lugar de valores P
   - Si por alguna razón no se puede proporcionar los valores p exactos.
 - In muy raras ocasiones el valor de P puede ser expresado con mas de 3 cifras decimales (*P*=1x10<sup>-5</sup>)
+
+##### Referencias
+https://support.jmir.org/hc/en-us/articles/360000002012-How-should-P-values-be-reported-
+
+How to Report Statistics in Medicine: Annotated Guidelines for Authors, Editors, and Reviewers (Medical Writing and Communication) Thomas A. Lang
