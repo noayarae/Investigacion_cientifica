@@ -6,7 +6,7 @@ La discusión va después de métodos y resultados y antes de las conclusiones.
 La discusión debe relacionarse directamente con las preguntas planteadas en la introducción y contextualizar los resultados dentro de la literatura que se ha cubierto en la revisión de la literatura. 
 
 La discusión debe incluir lo siguiente:
-- Los principales hallazgos
+- Los principales hallazgos 
 - El significado y trascendencia de estos hallazgos
 - Como estos hallazgos se relacionan a lo que otros investigadores han encontrado.
 - Limitaciones de los hallazgos
