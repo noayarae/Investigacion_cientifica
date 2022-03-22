@@ -1,6 +1,6 @@
-## Contenido de las diferentes secciones de un artículo de investigación
+## Contenido de las secciones de un artículo de investigación
 
-### Contenido de la discusión
+### Discusión
 La discusión va después de métodos y resultados y antes de las conclusiones.
 
 La discusión debe relacionarse directamente con las preguntas planteadas en la introducción y contextualizar los resultados dentro de la literatura que se ha cubierto en la revisión de la literatura. 
@@ -19,7 +19,7 @@ La discusión no debe incluir lo siguiente:
 - Problemas tangenciales a la investigación
 - Conclusiones no respaldadas por los datos de la investigación
 
-### Como hacer efectivo el capítulo de discusión
+#### Una sección de "Discusión" efectiva
 
 Existen varias formas de redactar una discusión efectiva, interesante y relevante.
 - Se recomienda listar los hallazgos del estudio en orden decreciente de importancia.
@@ -41,7 +41,7 @@ En nuestro ejemplo, si la literatura muestra que el nuevo medicamento fueron efe
 Finalmente, recuerda que no se debe introducir nuevas ideas/datos o especular posibles implicaciones futuras del estudio en esta sección. Sin embargo, considerar explicaciones alternativas para los resultados del estudio es recomendable.
 
 
-### Confusiones en la sección de conclusiones
+#### Diferencia entre la sección de "Discusión" y "Conclusiones"
 Muchos investigadores confunden la información que deben incluir en la sección de discusión con la información que se debe incluir en la sección de conclusiones. Una forma sencilla para evitar esta confusión is pensar de la conclusión como un resumen de todo lo mencionado en el artículo. En la sección de conclusión, uno debe recordar al lector todo lo que el artículo describe. La sección de conclusión debe contener:
 - Repita su hipótesis o pregunta de investigación.
 - Repita los principales hallazgos de la investigación.
