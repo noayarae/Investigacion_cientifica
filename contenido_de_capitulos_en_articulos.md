@@ -10,7 +10,7 @@ Título: Una revisión de modelos estadisticos de temperatura del agua en ríos
 
 **(El problema - Justificación)** El uso de modelos estadísticos para simular o predecir la temperatura del agua de los arroyos se está convirtiendo en una herramienta cada vez más importante en la gestión de los recursos hídricos y los hábitats acuáticos. **(Propósito del estudio)** Este artículo proporciona una descripción general de los modelos estadísticos de temperatura del agua existentes. **(Metodología)** Se han desarrollado y utilizado diferentes modelos para analizar la relación temperatura del agua-variables ambientales. Estos se agrupan en dos categorías principales: modelos deterministas y estadísticos/estocásticos. Generalmente, los modelos deterministas requieren numerosos datos de entrada como profundidad del flujo, sombreado, velocidad del viento. Por lo tanto, son más apropiados para analizar diferentes escenarios de impacto por efectos antrópicos tales como presencia de embalses, contaminación térmica y deforestación. A diferencia de los modelos deterministas, los modelos estadísticos son relativamente simples y demanda relativamente menor cantidad de parámetros. Los modelos paramétricos, como la regresión lineal y no lineal, son métodos populares que se utilizan a menudo para escalas de tiempo más cortas (por ejemplo, diarias, semanales). **(Resultados y hallazgos)** La regresión de Ridge presenta una ventaja cuando las variables independientes están altamente correlacionadas. Los modelos periódicos presentan ventajas al tratar con la estacionalidad que a menudo existe en las series de tiempo periódicas. Los modelos no paramétricos (por ejemplo, k-vecinos más cercanos, redes neuronales artificiales) son más adecuados para el análisis de relaciones no lineales entre la temperatura del agua y las variables ambientales. Finalmente, se discuten las ventajas y desventajas de los modelos y estudios existentes.
 
-### Discusión
+## Discusión
 La discusión va después de métodos y resultados y antes de las conclusiones.
 
 La discusión debe relacionarse directamente con las preguntas planteadas en la introducción y contextualizar los resultados dentro de la literatura que se ha cubierto en la revisión de la literatura. 
@@ -29,7 +29,7 @@ La discusión no debe incluir lo siguiente:
 - Problemas tangenciales a la investigación
 - Conclusiones no respaldadas por los datos de la investigación
 
-#### Una sección de "Discusión" efectiva
+### Una sección de "Discusión" efectiva
 
 Existen varias formas de redactar una discusión efectiva, interesante y relevante.
 - Se recomienda listar los hallazgos del estudio en orden decreciente de importancia.
@@ -52,7 +52,7 @@ En nuestro ejemplo, si la literatura muestra que el nuevo medicamento fueron efe
 Finalmente, recuerda que no se debe introducir nuevas ideas/datos o especular posibles implicaciones futuras del estudio en esta sección. Sin embargo, considerar explicaciones alternativas para los resultados del estudio es recomendable.
 
 
-#### Diferencia entre la sección de "Discusión" y "Conclusiones"
+### Diferencia entre la sección de "Discusión" y "Conclusiones"
 Muchos investigadores confunden la información que deben incluir en la sección de discusión con la información que se debe incluir en la sección de conclusiones. Una forma sencilla para evitar esta confusión is pensar de la conclusión como un resumen de todo lo mencionado en el artículo. En la sección de conclusión, uno debe recordar al lector todo lo que el artículo describe. La sección de conclusión debe contener:
 - Repita su hipótesis o pregunta de investigación.
 - Repita los principales hallazgos de la investigación.
