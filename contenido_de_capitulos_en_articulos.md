@@ -31,6 +31,7 @@ Aquí se tiene dos redacciones de discusión:
 2. Los hallazgos mostraron que pacientes que recibieron el nuevo medicamento mostraron ligera tendencia a desarrollar ataques de asma que aquellos que no recibieron el medicamento. Además, los pacientes que recibieron el nuevo medicamento no mostraron resultados favorables comparado a aquellos no recibieron el medicamento.
 
 De las dos redacciones anteriores, la primera es lo más correcto.
+
 - Si uno no está seguro cual resultado es más importante, solo tiene que volver a la pregunta de investigación y empezar de ahí.
 - Es también importante contextualizar los significados de los hallazgos. Es decir, comparar los hallazgos de la presente investigación con hallazgos de la literatura en estudios similares. Describir si los presentes hallazgos son similares o diferentes a la literatura. En esta práctica es recomendable responder las siguientes preguntas:
   * Los resultados de esta investigación son similares a la literatura?
@@ -57,10 +58,14 @@ La sección de conclusión No debe:
 
 Una conclusión apropiada de nuestro estudio hipotético podría ser la siguiente:
 
-En este estudio, se ha examinado la eficiencia de un nuevo medicamento "A" en pacientes diabéticos. Se ha comparado pacientes diabéticos que recibieron este medicamento A con aquellos que no recibieron el medicamento A. Después de examinar los resultados de 5 años de seguimiento de 1947 pacientes in el área de metropolitana de México, el análisis estadístico concluyó que la ingesta del medicamento A dió resultados que no fueron mejores a los pacientes que no ingirieron el medicamento A. Aunque previos hallazgos indicaron que el medicamento A dieron resultados favorables en estos pacientes, nuestro estudio siguió un gran número de pacientes que aquellos estudios conducidos previamente. Es posible que los resultados varíen si se miden durante un período de diez o quince años. Futuras investigaciones deberían considerar investigar el impacto del medicamento A de estos pacientes durante un período más largo (cinco años o más). Independientemente, nuestros resultados apuntan a la necesidad de que los médicos reconsideren la aplicación del medicamento A, ya que las intervenciones no quirúrgicas pueden tener resultados igualmente positivos para los pacientes.
+##### Ejemplo de la sección de "Conclusiones" en versión en Español.
+
+##### Conclusiones
+**(1 - Objectivo)** En este estudio, se ha examinado la eficiencia de un nuevo medicamento "A" en pacientes diabéticos. **(2 - Metodología)** Se ha comparado pacientes diabéticos que recibieron este medicamento A con aquellos que no recibieron el medicamento A. **(3 - Hallazgos)** Después de examinar los resultados de 5 años de seguimiento de 1947 pacientes in el área de metropolitana de México, el análisis estadístico concluyó que la ingesta del medicamento A dió resultados que no fueron mejores a los pacientes que no ingirieron el medicamento A. **(4 - Contribución a la literatura, similitudes o diferencias con la literatura)** Aunque previos hallazgos indicaron que el medicamento A dieron resultados favorables en estos pacientes, nuestro estudio siguió un gran número de pacientes que aquellos estudios conducidos previamente. **(5 - Razones. Por que las similitudes o diferencias - Rangos y límites del estudio)** Es posible que los resultados varíen si se miden durante un período de diez o quince años. **(6 - Futuras investigaciones)** Futuras investigaciones deberían considerar investigar el impacto del medicamento A de estos pacientes durante un período más largo (cinco años o más). **(7 - Recomendaciones )** Independientemente, nuestros resultados apuntan a la necesidad de que los médicos reconsideren la aplicación del medicamento A, ya que las intervenciones no quirúrgicas pueden tener resultados igualmente positivos para los pacientes.
 
 https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-manuscript/
 
+---------------------------------------------------
 ##### Example in English version.
 ###### Discussion
 (1) Our findings suggest that patients who had partially blocked arteries and were treated with a stent as the first line of intervention had no better outcomes than patients who were not given any surgical treatments.
@@ -68,8 +73,7 @@ https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-man
 (2) Our findings noted that patients who received stents demonstrated slightly higher rates of asthma than those who did not. In addition, the placement of a stent did not impact their rates of cardiac events in a statistically significant way.
 
 
-
-###### Conclusión
+###### Conclusions
 **(1 - Objective)** In this study, we examined the effectiveness of stent placement. **(2 - Methodology)** We compared the patients with partially blocked arteries to those with non-surgical interventions. **(3 - Finding)** After examining the five-year medical outcomes of 19,457 patients in the Greater Dallas area, our statistical analysis concluded that the placement of a stent resulted in outcomes that were no better than non-surgical interventions such as diet and exercise. **(4 - Contribution to literature, similarities, or differences)** Although previous findings indicated that stent placement improved patient outcomes, our study followed a greater number of patients than those in major studies conducted previously. **(5 - Why it is similar or different – study boundaries)** It is possible that outcomes would vary if measured over a ten- or fifteen-year period. **(6 - Future research)** Future researchers should consider investigating the impact of stent placement in these patients over a longer period (five years or longer). **(7 - Recommendation)** Regardless, our results point to the need for medical practitioners to reconsider the placement of a stent as the first line of treatment as non-surgical interventions may have equally positive outcomes for patients.
 
 
