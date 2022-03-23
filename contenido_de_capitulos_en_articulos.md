@@ -2,7 +2,7 @@
 
 ## Resumen
 
-El resumen es un párrafo conciso de la investigación. Los resúmenes varían según el tipo de investigación, pero deben incluir:
+El resumen de un artículo es un párrafo conciso de la investigación. Los resúmenes varían según el tipo de investigación, pero deben incluir:
 
 - Pregunta(s) de investigación, problema(s) y/o la(s) hipótesis de la investigación
 - Propósito de la investigación
