@@ -2,7 +2,7 @@
 
 ## Resumen
 
-##### Ejemplo de resumen de un artículo que involucra experimentos
+#### Ejemplo de resumen de un artículo que involucra experimentos
 
 ###### Título: Influencia de la Visualización de la Incertidumbre Asimétrica en la Evaluación Planes de Conservación en un Sistema de Soporte de Decisiones Ambientales.
 
@@ -12,7 +12,7 @@
 
 
 
-##### Ejemplo de resumen de un artículo de revisión de metodologias de un problema
+#### Ejemplo de resumen de un artículo de revisión de metodologias de un problema
 
 ###### Título: Una revisión de modelos estadisticos de temperatura del agua en ríos
 
