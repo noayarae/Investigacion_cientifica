@@ -12,7 +12,7 @@ El resumen es un párrafo conciso de la investigación. Los resúmenes varían s
 - Puntos críticos de una revisión de la literatura.
 
 
-#### Ejemplo de resumen de un artículo que involucra experimentos
+#### E1 - Ejemplo de "Resumen" de un artículo que involucra experimentos
 
 ###### Título: Influencia de la Visualización de la Incertidumbre Asimétrica en la Evaluación Planes de Conservación en un Sistema de Soporte de Decisiones Ambientales.
 
@@ -22,7 +22,7 @@ El resumen es un párrafo conciso de la investigación. Los resúmenes varían s
 
 
 
-#### Ejemplo de resumen de un artículo de revisión de metodologias de un problema
+#### E2 - Ejemplo de "Resumen" de un artículo de revisión de metodologias de un problema
 
 ###### Título: Una revisión de modelos estadisticos de temperatura del agua en ríos
 
