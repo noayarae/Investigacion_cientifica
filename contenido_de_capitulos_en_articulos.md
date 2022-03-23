@@ -2,6 +2,16 @@
 
 ## Resumen
 
+##### Ejemplo de resumen de un artículo que involucra experimentos
+
+###### Título: Influencia de la Visualización de la Incertidumbre Asimétrica en la Evaluación Planes de Conservación en un Sistema de Soporte de Decisiones Ambientales.
+
+###### Artículo original. Influence of Asymmetric Uncertainty Visualizations on the Evaluation of Conservation Plans by Environmental Decision Support System Users by Noa-Yarasca, E.; Babbar-Sebens, M.; Chiou, A.; Macuga, K. (2021)
+
+**(Problema)** La comunicación de la incertidumbre es un aspecto muy importante para las tecnologías de visualización utilizadas en los sistemas de soporte de toma de decisiones. Sin embargo, las personas pueden malinterpretar o ignorar las visualizaciones de incertidumbre. **(Propósito)** Investigamos cómo las visualizaciones de incertidumbre influyeron en las evaluaciones de los planes de conservación sugeridos en un sistema de soporte de toma de decisiones ambientales. También examinamos si los usuarios de prueba se pueden utilizar para evaluar las técnicas de visualización (por ejemplo, cuando la prueba del usuario final no es factible) y si los conocimientos estadísticos de un usuario influyeron en sus decisiones. **(Metodología)** Los niveles de incertidumbre se manipularon a través de una nueva Métrica de Incertidumbre Asimétrica (MIA). Setenta y siete participantes (53 usuarios de prueba, 24 usuarios finales) evaluaron los planes de conservación en dos sesiones en línea, una con y otra sin incertidumbre visualizada. **(Resultados)** Los resultados de regresión lineal indicaron que las evaluaciones de los planes realizadas con visualización de incertidumbre visualizada diferían de aquellas sin visualización de incertidumbre (V = .337, F(20,153) = 3.380, p < .001), lo que sugiere que la visualización de la incertidumbre puede modificar las evaluaciones de los planes de conservación por parte de los usuarios. Los usuarios finales se vieron más influenciados por la incertidumbre visualizada que los usuarios de prueba (βusuarios-finales = 0,22-0,28, βusuarios-de-prueba = 0,08-0,12) (F(1,1536) = 34,804, p < 0,001), y los participantes que (F(1,1536) = 5.843, p = .016) o habían sido entrenados para usar (F(1,1536) = 17.310, p < .001) datos estadísticos también fueron más sensibles a la incertidumbre visualizada (βw_exp_est = 0.17 -0.18) que aquellos sin (βw_NO_exp_est = 0.11-0.07).
+
+
+
 ##### Ejemplo de resumen de un artículo de revisión de metodologias de un problema
 
 ###### Título: Una revisión de modelos estadisticos de temperatura del agua en ríos
