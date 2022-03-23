@@ -2,6 +2,16 @@
 
 ## Resumen
 
+El resumen es un párrafo conciso de la investigación. Los resúmenes varían según el tipo de investigación, pero deben incluir:
+
+- Pregunta(s) de investigación, problema(s) y/o la(s) hipótesis de la investigación
+- Propósito de la investigación
+- Método(s) de investigación y procedimiento(s)
+- Resultados del estudio y conclusiones
+- Recomendaciones e implicaciones
+- Puntos críticos de una revisión de la literatura.
+
+
 #### Ejemplo de resumen de un artículo que involucra experimentos
 
 ###### Título: Influencia de la Visualización de la Incertidumbre Asimétrica en la Evaluación Planes de Conservación en un Sistema de Soporte de Decisiones Ambientales.
