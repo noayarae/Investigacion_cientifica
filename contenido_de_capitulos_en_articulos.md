@@ -60,7 +60,7 @@ Aquí se tiene dos redacciones de discusión:
 1. Los hallazgos sugieren que pacientes diabéticos tratados con este nuevo medicamento  no han dado resultados favorables en comparación a aquellos pacientes que no fueron tratados con este nuevo medicamento.
 2. Los hallazgos mostraron que pacientes que recibieron el nuevo medicamento mostraron ligera tendencia a desarrollar ataques de asma que aquellos que no recibieron el medicamento. Además, los pacientes que recibieron el nuevo medicamento no mostraron resultados favorables comparado a aquellos no recibieron el medicamento.
 
-De las dos redacciones anteriores, la primera es lo más correcto.
+De las dos redacciones anteriores, **la primera es lo más correcto**.
 
 - Si uno no está seguro cual resultado es más importante, solo tiene que volver a la pregunta de investigación y empezar de ahí.
 - Es también importante contextualizar los significados de los hallazgos. Es decir, comparar los hallazgos de la presente investigación con hallazgos de la literatura en estudios similares. Describir si los presentes hallazgos son similares o diferentes a la literatura. En esta práctica es recomendable responder las siguientes preguntas:
