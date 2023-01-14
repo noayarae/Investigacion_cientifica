@@ -73,7 +73,7 @@ Finalmente, recuerda que no se debe introducir nuevas ideas/datos o especular po
 
 
 ### Diferencia entre la sección de "Discusión" y "Conclusiones"
-Muchos investigadores confunden la información que deben incluir en la sección de discusión con la información que se debe incluir en la sección de conclusiones. Una forma sencilla para evitar esta confusión is pensar de la conclusión como un resumen de todo lo mencionado en el artículo. En la sección de conclusión, uno debe recordar al lector todo lo que el artículo describe. La sección de conclusión debe contener:
+Muchos investigadores confunden la información que deben incluir en la sección de discusión con la información que se debe incluir en la sección de conclusiones. Una forma sencilla para evitar esta confusión es pensar de la conclusión como un resumen de todo lo mencionado en el artículo. En la sección de conclusión, uno debe recordar al lector todo lo que el artículo describe. La sección de conclusión debe contener:
 - Repita su hipótesis o pregunta de investigación.
 - Repita los principales hallazgos de la investigación.
 - Mencione la contribución ha hecho su estudio a la literatura existente.
