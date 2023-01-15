@@ -38,7 +38,7 @@ La discusión debe relacionarse directamente con las preguntas planteadas en la 
 La discusión debe incluir lo siguiente:
 - Los principales hallazgos 
 - El significado y trascendencia de estos hallazgos
-- Como estos hallazgos se relacionan a lo que otros investigadores han encontrado.
+- Como estos hallazgos se relacionan a lo que otros investigadores han encontrado?.
 - Limitaciones de los hallazgos
 - Explicación de los sorprendentes, inexpectados, o no-coclusivos hallazgos
 - Sugerencias para futuras investigaciones
