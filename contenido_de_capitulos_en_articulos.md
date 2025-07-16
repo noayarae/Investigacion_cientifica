@@ -108,7 +108,7 @@ https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-man
 
 -----------------------------------------
 
-**Rules for writing the discussion section in a journal article**
+### **Rules for writing the discussion section in a journal article**
 
 The discussion section of a journal article is where you interpret your research results, connect them to existing literature, and explain their significance. It's crucial to distinguish it from the results section, which simply presents the objective findings. 
 
@@ -145,12 +145,15 @@ Here are the key elements and rules for constructing an effective discussion sec
 **6. Propose future research**
 - Suggest specific directions for further studies based on your findings and limitations.
 
-**Tips for writing**
-Be concise and clear: Avoid jargon and make your points directly.
-Follow a logical flow: Structure your discussion clearly.
-Maintain an objective and analytical tone: Avoid overstating findings or making unsupported claims.
-Proofread carefully: Ensure your writing is free of errors. 
-Things to avoid
+#### **Tips for writing**
+
+- Be concise and clear: Avoid jargon and make your points directly.
+- Follow a logical flow: Structure your discussion clearly.
+- Maintain an objective and analytical tone: Avoid overstating findings or making unsupported claims.
+- Proofread carefully: Ensure your writing is free of errors.
+
+#### **Things to avoid**
+
 Introducing new results, making inflated claims, overgeneralizing, ignoring the literature, and going off-topic. 
 
 
