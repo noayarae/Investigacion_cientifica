@@ -154,7 +154,11 @@ Here are the key elements and rules for constructing an effective discussion sec
 
 #### **Things to avoid**
 
-Introducing new results, making inflated claims, overgeneralizing, ignoring the literature, and going off-topic. 
+- Introducing new results.
+- Making inflated claims.
+- Overgeneralizing.
+- Ignoring the literature.
+- Going off-topic. 
 
 
 
