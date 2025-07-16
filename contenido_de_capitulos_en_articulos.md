@@ -108,10 +108,11 @@ https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-man
 
 -----------------------------------------
 Here are the key elements and rules for constructing an effective discussion section:
-1. Summarize your key findings
-Start by briefly restating your research problem and summarizing your major findings.
-Focus on the most important results, aiming for a concise statement of the overall outcome that directly addresses your main research question.
-Avoid simply repeating the raw data presented in the results section.  
+**1. Summarize your key findings.**
+- Start by briefly restating your research problem and summarizing your major findings.
+- Focus on the most important results, aiming for a concise statement of the overall outcome that directly addresses your main research question.
+- Avoid simply repeating the raw data presented in the results section.  
+
 2. Interpret the results
 Explain what your findings mean and why they are important to the reader.
 Discuss patterns, principles, and relationships shown by each major finding.
