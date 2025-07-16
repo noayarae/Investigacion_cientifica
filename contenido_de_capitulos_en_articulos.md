@@ -135,14 +135,17 @@ Here are the key elements and rules for constructing an effective discussion sec
 - Highlight new insights your research contributes and how it fits into the broader context of your field. 
 
 **4. Discuss the implications**
-Explain why your research matters and its potential impact on theory and practice.
-Consider the practical, theoretical, and/or social implications and how your research addresses gaps or problems in your field. 
-5. Acknowledge limitations
-Be transparent about the shortcomings of your study and explain their potential impact on your results or interpretations.
-Acknowledging limitations demonstrates credibility. 
-6. Propose future research
-Suggest specific directions for further studies based on your findings and limitations. 
-Tips for writing
+- Explain why your research matters and its potential impact on theory and practice.
+- Consider the practical, theoretical, and/or social implications and how your research addresses gaps or problems in your field.
+
+**5. Acknowledge limitations**
+- Be transparent about the shortcomings of your study and explain their potential impact on your results or interpretations.
+- Acknowledging limitations demonstrates credibility.
+
+**6. Propose future research**
+- Suggest specific directions for further studies based on your findings and limitations.
+
+**Tips for writing**
 Be concise and clear: Avoid jargon and make your points directly.
 Follow a logical flow: Structure your discussion clearly.
 Maintain an objective and analytical tone: Avoid overstating findings or making unsupported claims.
