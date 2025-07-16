@@ -107,13 +107,21 @@ https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-man
 **(1 - Objective)** In this study, we examined the effectiveness of stent placement. **(2 - Methodology)** We compared the patients with partially blocked arteries to those with non-surgical interventions. **(3 - Finding)** After examining the five-year medical outcomes of 19,457 patients in the Greater Dallas area, our statistical analysis concluded that the placement of a stent resulted in outcomes that were no better than non-surgical interventions such as diet and exercise. **(4 - Contribution to literature, similarities, or differences)** Although previous findings indicated that stent placement improved patient outcomes, our study followed a greater number of patients than those in major studies conducted previously. **(5 - Why it is similar or different – study boundaries)** It is possible that outcomes would vary if measured over a ten- or fifteen-year period. **(6 - Future research)** Future researchers should consider investigating the impact of stent placement in these patients over a longer period (five years or longer). **(7 - Recommendation)** Regardless, our results point to the need for medical practitioners to reconsider the placement of a stent as the first line of treatment as non-surgical interventions may have equally positive outcomes for patients.
 
 -----------------------------------------
+
+**Rules for writing the discussion section in a journal article**
+
+The discussion section of a journal article is where you interpret your research results, connect them to existing literature, and explain their significance. It's crucial to distinguish it from the results section, which simply presents the objective findings. 
+
 Here are the key elements and rules for constructing an effective discussion section:
+
 **1. Summarize your key findings.**
+
 - Start by briefly restating your research problem and summarizing your major findings.
 - Focus on the most important results, aiming for a concise statement of the overall outcome that directly addresses your main research question.
 - Avoid simply repeating the raw data presented in the results section.  
 
-2. Interpret the results
+**2. Interpret the results**
+
 Explain what your findings mean and why they are important to the reader.
 Discuss patterns, principles, and relationships shown by each major finding.
 Analyze your research findings and explore their implications.
