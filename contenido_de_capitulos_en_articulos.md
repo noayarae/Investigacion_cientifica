@@ -106,5 +106,39 @@ https://www.enago.com/academy/discussion-conclusion-know-difference-drafting-man
 ###### Conclusions
 **(1 - Objective)** In this study, we examined the effectiveness of stent placement. **(2 - Methodology)** We compared the patients with partially blocked arteries to those with non-surgical interventions. **(3 - Finding)** After examining the five-year medical outcomes of 19,457 patients in the Greater Dallas area, our statistical analysis concluded that the placement of a stent resulted in outcomes that were no better than non-surgical interventions such as diet and exercise. **(4 - Contribution to literature, similarities, or differences)** Although previous findings indicated that stent placement improved patient outcomes, our study followed a greater number of patients than those in major studies conducted previously. **(5 - Why it is similar or different – study boundaries)** It is possible that outcomes would vary if measured over a ten- or fifteen-year period. **(6 - Future research)** Future researchers should consider investigating the impact of stent placement in these patients over a longer period (five years or longer). **(7 - Recommendation)** Regardless, our results point to the need for medical practitioners to reconsider the placement of a stent as the first line of treatment as non-surgical interventions may have equally positive outcomes for patients.
 
+-----------------------------------------
+Here are the key elements and rules for constructing an effective discussion section:
+1. Summarize your key findings
+Start by briefly restating your research problem and summarizing your major findings.
+Focus on the most important results, aiming for a concise statement of the overall outcome that directly addresses your main research question.
+Avoid simply repeating the raw data presented in the results section.  
+2. Interpret the results
+Explain what your findings mean and why they are important to the reader.
+Discuss patterns, principles, and relationships shown by each major finding.
+Analyze your research findings and explore their implications.
+Consider potential alternative explanations for your results.
+Explain unexpected results and evaluate their significance. 
+3. Compare with existing literature
+Relate your findings to previous studies and theories in your field.
+Discuss how your results align with or differ from existing knowledge and cite relevant studies.
+Highlight new insights your research contributes and how it fits into the broader context of your field. 
+4. Discuss the implications
+Explain why your research matters and its potential impact on theory and practice.
+Consider the practical, theoretical, and/or social implications and how your research addresses gaps or problems in your field. 
+5. Acknowledge limitations
+Be transparent about the shortcomings of your study and explain their potential impact on your results or interpretations.
+Acknowledging limitations demonstrates credibility. 
+6. Propose future research
+Suggest specific directions for further studies based on your findings and limitations. 
+Tips for writing
+Be concise and clear: Avoid jargon and make your points directly.
+Follow a logical flow: Structure your discussion clearly.
+Maintain an objective and analytical tone: Avoid overstating findings or making unsupported claims.
+Proofread carefully: Ensure your writing is free of errors. 
+Things to avoid
+Introducing new results, making inflated claims, overgeneralizing, ignoring the literature, and going off-topic. 
+
+
+
 
 
