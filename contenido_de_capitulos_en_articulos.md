@@ -122,16 +122,19 @@ Here are the key elements and rules for constructing an effective discussion sec
 
 **2. Interpret the results**
 
-Explain what your findings mean and why they are important to the reader.
-Discuss patterns, principles, and relationships shown by each major finding.
-Analyze your research findings and explore their implications.
-Consider potential alternative explanations for your results.
-Explain unexpected results and evaluate their significance. 
-3. Compare with existing literature
-Relate your findings to previous studies and theories in your field.
-Discuss how your results align with or differ from existing knowledge and cite relevant studies.
-Highlight new insights your research contributes and how it fits into the broader context of your field. 
-4. Discuss the implications
+- Explain what your findings mean and why they are important to the reader.
+- Discuss patterns, principles, and relationships shown by each major finding.
+- Analyze your research findings and explore their implications.
+- Consider potential alternative explanations for your results.
+- Explain unexpected results and evaluate their significance.
+
+**3. Compare with existing literature**
+
+- Relate your findings to previous studies and theories in your field.
+- Discuss how your results align with or differ from existing knowledge and cite relevant studies.
+- Highlight new insights your research contributes and how it fits into the broader context of your field. 
+
+**4. Discuss the implications**
 Explain why your research matters and its potential impact on theory and practice.
 Consider the practical, theoretical, and/or social implications and how your research addresses gaps or problems in your field. 
 5. Acknowledge limitations
